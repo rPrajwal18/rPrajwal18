@@ -3,7 +3,7 @@
 <p>I’m a dedicated software developer, sculpting digital experiences one line of code at a time. My passion lies in crafting efficient, scalable, and intuitive solutions that delight users and solve real-world challenges. My journey in tech started with a strong curiosity about how technology works, which led me to development and keep exploring new innovations.</p>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-r-112b12270) <br/>
 
 # ⚙️ Languages and Tools
