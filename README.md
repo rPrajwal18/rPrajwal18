@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prajwal R<br/>
-### 📊 <ins> Data Analyst </ins>
+### 📈 <ins> Data Analyst </ins>
 
 <p>I work at the intersection of data and decision-making — designing reliable, scalable, and insight-driven reporting solutions. With professional experience in data analytics, ETL processes, business intelligence, I focus on delivering value through clean data, meaningful insights and powerful visualizations.</p>
 
