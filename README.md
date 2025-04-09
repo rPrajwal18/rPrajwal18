@@ -14,6 +14,7 @@
 <br />
 
 ### 📈 I'm passionate about solving real business problems using data. I focus on improving reporting workflows through automation, data quality, and visual storytelling to support faster, smarter decision-making.
+<br/>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-r-112b12270) <br/>
