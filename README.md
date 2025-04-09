@@ -11,9 +11,8 @@
 - End-to-end dashboard/report development using BI tools
 - Data modeling, transformation, and ETL workflows
 - Business-focused data analysis and KPI reporting
-<br />
 
-### 📈 I'm passionate about solving real business problems using data. I focus on improving reporting workflows through automation, data quality, and visual storytelling to support faster, smarter decision-making.
+ 📈 **I'm passionate about solving real business problems using data. I focus on improving reporting workflows through automation, data quality, and visual storytelling.**
 <br/>
 
 ### 🌐 Socials
