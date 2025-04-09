@@ -6,7 +6,6 @@
 
 ### Tools & Technologies
  <p> SQL • MS Power BI • MS Excel • SAP Analytics Cloud • MySQL • Microsoft SQL Server </p>
- <br/>
 
 ### Core Strengths:
 - End-to-end dashboard/report development using BI tools
