@@ -15,7 +15,7 @@
  📈 **I'm passionate about solving real business problems using data. I focus on improving reporting workflows through automation, data quality, and visual storytelling.**
 <br/>
 
- <p>📫 You can reach me at 18rprajwal@gmail.com </p>
+ <p>📫 You can reach me at</p> [18rprajwal@gmail.com] 
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-r-112b12270) <br/>
